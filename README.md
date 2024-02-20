@@ -9,3 +9,4 @@ Running Instructions:
 3. Now click select Image button and choose an image to Encrypt.
 4. It'll encrypt your image and now when you open your encrypted image it will show an error.
 5. Now to decrypt your image just type same key used for encryption and select same image and done image is decrypted.
+   Author: Shushank
